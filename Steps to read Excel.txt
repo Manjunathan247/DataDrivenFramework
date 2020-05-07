@@ -1,0 +1,7 @@
+1. Create Workbook Object
+2. Get access to Sheet
+		Get the size of sheets in workbook
+		Get the index of sheet, then get the name of sheets
+3. Get access to all rows in sheet
+		Once column is identified, scan entire test case column to get test case names
+		Then access the required test case row to get the data.
